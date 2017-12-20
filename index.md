@@ -1,37 +1,21 @@
-## Welcome to GitHub Pages
+ADVANTAGES OF A ROUTER 
 
-You can use the [editor on GitHub](https://github.com/field-engineer/enterpriserouters/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+A Router is a device that is connected to the fixed telephone network and that converts telephone signals into Internet data; is a device that selects or chooses a path or routes in computer networks to send them information packets.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+In technical terms, information packets are transferred from their source to a destination through intermediate nodes, which in this case corresponds to the Router as the physical device in question.
 
-### Markdown
+The Router that we see in homes and offices fulfills the function of creating wireless networks, which in practical terms is normally used to connect to the Internet without the need to connect a cable physically to our computers.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Among the advantages of a Rounter we mention the following: 
 
-```markdown
-Syntax highlighted code block
+Advantages of a Router
 
-# Header 1
-## Header 2
-### Header 3
+Among the advantages that a Router offers us, we mention the following:
+[Enterprise router](https://www.fieldengineer.com/blogs/top-seven-enterprise-router-vendors-consider-2018/) is a basic product for any business/enterprise
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/field-engineer/enterpriserouters/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+•	They are configurable.
+•	They are relatively easy to maintain once configured.
+•	Prevents the presence of intruders.
+•	They are not affected by the contrasts of delay times as in bridges.
+•	They are not topologically limited.
+•	They are intelligent and can select the most advisable path between two or more simultaneous connections.
