@@ -6,7 +6,7 @@ In technical terms, information packets are transferred from their source to a d
 
 The Router that we see in homes and offices fulfills the function of creating wireless networks, which in practical terms is normally used to connect to the Internet without the need to connect a cable physically to our computers.
 
-Among the advantages of a Rounter we mention the following: 
+Among the advantages of a Rounter we mention the following:
 
 Advantages of a Router
 
